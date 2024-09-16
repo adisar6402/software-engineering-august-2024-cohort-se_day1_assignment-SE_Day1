@@ -1,0 +1,20 @@
+{
+  "name": "software-engineering-august-2024-cohort-se_day1_assignment-se_day1",
+  "version": "1.0.0",
+  "description": "1. **Explain what software engineering is and discuss its importance in the technology industry.**",
+  "main": "index.js",
+  "scripts": "scripts": {
+  "start": "node index.js",
+  "test": "jest"
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
+
