@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "1. **Explain what software engineering is and discuss its importance in the technology industry.**",
   "main": "index.js",
-  "scripts": "scripts": {
-  "start": "node index.js",
-  "test": "jest"
-
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
